@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/SuperJulia2024/frontendmentor-Component-with-signup-form-master](https://github.com/SuperJulia2024/frontendmentor-Component-with-signup-form-master)
+- Live Site URL: [https://superjulia2024.github.io/frontendmentor-Component-with-signup-form-master](https://superjulia2024.github.io/frontendmentor-Component-with-signup-form-master)
 
 ## My process
 
